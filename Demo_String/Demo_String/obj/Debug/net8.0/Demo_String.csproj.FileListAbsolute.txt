@@ -1,0 +1,14 @@
+D:\Workspace\Code\C_Sharp\Demo_String\Demo_String\bin\Debug\net8.0\Demo_String.exe
+D:\Workspace\Code\C_Sharp\Demo_String\Demo_String\bin\Debug\net8.0\Demo_String.deps.json
+D:\Workspace\Code\C_Sharp\Demo_String\Demo_String\bin\Debug\net8.0\Demo_String.runtimeconfig.json
+D:\Workspace\Code\C_Sharp\Demo_String\Demo_String\bin\Debug\net8.0\Demo_String.dll
+D:\Workspace\Code\C_Sharp\Demo_String\Demo_String\bin\Debug\net8.0\Demo_String.pdb
+D:\Workspace\Code\C_Sharp\Demo_String\Demo_String\obj\Debug\net8.0\Demo_String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Code\C_Sharp\Demo_String\Demo_String\obj\Debug\net8.0\Demo_String.AssemblyInfoInputs.cache
+D:\Workspace\Code\C_Sharp\Demo_String\Demo_String\obj\Debug\net8.0\Demo_String.AssemblyInfo.cs
+D:\Workspace\Code\C_Sharp\Demo_String\Demo_String\obj\Debug\net8.0\Demo_String.csproj.CoreCompileInputs.cache
+D:\Workspace\Code\C_Sharp\Demo_String\Demo_String\obj\Debug\net8.0\Demo_String.dll
+D:\Workspace\Code\C_Sharp\Demo_String\Demo_String\obj\Debug\net8.0\refint\Demo_String.dll
+D:\Workspace\Code\C_Sharp\Demo_String\Demo_String\obj\Debug\net8.0\Demo_String.pdb
+D:\Workspace\Code\C_Sharp\Demo_String\Demo_String\obj\Debug\net8.0\Demo_String.genruntimeconfig.cache
+D:\Workspace\Code\C_Sharp\Demo_String\Demo_String\obj\Debug\net8.0\ref\Demo_String.dll

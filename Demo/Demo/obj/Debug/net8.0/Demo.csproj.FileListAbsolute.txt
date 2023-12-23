@@ -1,0 +1,14 @@
+D:\Workspace\Code\C_Sharp\Demo\Demo\bin\Debug\net8.0\Demo.exe
+D:\Workspace\Code\C_Sharp\Demo\Demo\bin\Debug\net8.0\Demo.deps.json
+D:\Workspace\Code\C_Sharp\Demo\Demo\bin\Debug\net8.0\Demo.runtimeconfig.json
+D:\Workspace\Code\C_Sharp\Demo\Demo\bin\Debug\net8.0\Demo.dll
+D:\Workspace\Code\C_Sharp\Demo\Demo\bin\Debug\net8.0\Demo.pdb
+D:\Workspace\Code\C_Sharp\Demo\Demo\obj\Debug\net8.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Code\C_Sharp\Demo\Demo\obj\Debug\net8.0\Demo.AssemblyInfoInputs.cache
+D:\Workspace\Code\C_Sharp\Demo\Demo\obj\Debug\net8.0\Demo.AssemblyInfo.cs
+D:\Workspace\Code\C_Sharp\Demo\Demo\obj\Debug\net8.0\Demo.csproj.CoreCompileInputs.cache
+D:\Workspace\Code\C_Sharp\Demo\Demo\obj\Debug\net8.0\Demo.dll
+D:\Workspace\Code\C_Sharp\Demo\Demo\obj\Debug\net8.0\refint\Demo.dll
+D:\Workspace\Code\C_Sharp\Demo\Demo\obj\Debug\net8.0\Demo.pdb
+D:\Workspace\Code\C_Sharp\Demo\Demo\obj\Debug\net8.0\Demo.genruntimeconfig.cache
+D:\Workspace\Code\C_Sharp\Demo\Demo\obj\Debug\net8.0\ref\Demo.dll
